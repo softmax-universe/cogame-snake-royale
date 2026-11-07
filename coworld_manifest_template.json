@@ -26,11 +26,11 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-snake-royale/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-snake-royale/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-snake-royale/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-snake-royale/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
@@ -478,7 +478,7 @@
       "run": [
         "/bin/snake-royale-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-snake-royale",
+      "source_url": "https://github.com/softmax-universe/cogame-snake-royale",
       "env": {
         "PLAYER_SCRIPTED": "coil",
         "PLAYER_POLICY_LABEL": "coil"
@@ -502,7 +502,7 @@
       "run": [
         "/bin/snake-royale-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-snake-royale",
+      "source_url": "https://github.com/softmax-universe/cogame-snake-royale",
       "env": {
         "PLAYER_SCRIPTED": "forager",
         "PLAYER_POLICY_LABEL": "forager"
